@@ -1,0 +1,5 @@
+exif==1.6.0
+Pillow==9.4.0
+telebot==0.0.5
+clip==1.0
+sqlite3==2.6.0
